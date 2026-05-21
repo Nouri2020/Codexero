@@ -1,5 +1,5 @@
 {
-  "name": "degen-jackpot-contract",
+  "name": "crypto-agent-contract",
   "type": "module",
   "scripts": {
     "compile": "node compile.js",
