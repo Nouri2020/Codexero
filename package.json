@@ -1,5 +1,5 @@
 {
-  "name": "crypto-agent-contract",
+  "name": "wallet-checker-contract",
   "type": "module",
   "scripts": {
     "compile": "node compile.js",
