@@ -1,5 +1,5 @@
 {
-  "name": "wallet-checker-contract",
+  "name": "dapp-contract",
   "type": "module",
   "scripts": {
     "compile": "node compile.js",
